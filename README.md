@@ -1,4 +1,4 @@
-# Analysis_of_scRNA-seq_data_from_liver_tissues_from_patients_with_nonalcoholic_steatohepatitis
+# Analysis_of_scRNAseq_data_from_liver_tissues_from_patients_with_nonalcoholic_steatohepatitis
 
 The purpose of this work is to provide an workflow of the most common type of analysis for
 scRNA-seq (single cell RNA sequencing) data. I decided to conduct scRNA-seq analysis using
